@@ -5,11 +5,8 @@
 > 1. Description du projet
 >    * Objectifs du projets
 >    * Langages et technologies utilisés
-<<<<<<< Updated upstream
 >    * Objectifs du projet
->    * Languages et technologies utilisés
-=======
->>>>>>> Stashed changes
+>    * Langages et technologies utilisés
 > 2. Structure du projet
 >    * Structure Frontend
 >    * Structure Backend
@@ -51,10 +48,10 @@ Nous allons donc utiliser plusieurs librairies et technologies pour créer nos o
 La partie Frontend (*Apparence*) du script est organisé avec une infrastructure M.V.C. (*Models Views Controllers*):
 
 > /Iterface
->    |--/Models
->    |--/Views
->    |--/Controllers
->    |--root.py
+>    |--/Models<br/>
+>    |--/Views<br/>
+>    |--/Controllers<br/>
+>    |--root.py<br/>
 
 Le fichier ***root*** initialise la fenêtre principale de l'application, le fichier ***/Controllers*** contient les fichiers qui communiqueront à l’application les informations stockées (langues, thèmes, paramètres, etc...), le fichier ***/Models*** contient les fichiers qui retournent des éléments graphiques préconçus (*cela permet de mieux compartimenter le projet et d'accélérer la création des fenêtres*), et le fichier ***/Views*** contient les autres fenêtres de l'application.
 Cette structure est très utilisée dans la création graphiques dans de multiples domaines comme le mobile, le desktop, etc...
