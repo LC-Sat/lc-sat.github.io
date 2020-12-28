@@ -3,12 +3,8 @@
 ## Sommaire:
 
 > 1. Description du projet
-<<<<<<< HEAD
 >    * Objectifs du projets
 >    * Langages et technologies utilisés
-<<<<<<< Updated upstream
-=======
-=======
 >    * Objectifs du projet
 >    * Languages et technologies utilisés
 > 2. Structure du projet
