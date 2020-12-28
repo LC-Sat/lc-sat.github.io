@@ -11,8 +11,6 @@
 =======
 >    * Objectifs du projet
 >    * Languages et technologies utilisés
->>>>>>> 2402753832f758e37086fabac30a6164f990561f
->>>>>>> Stashed changes
 > 2. Structure du projet
 >    * Structure Frontend
 >    * Structure Backend
