@@ -47,7 +47,7 @@ Nous allons donc utiliser plusieurs librairies et technologies pour créer nos o
 
 La partie Frontend (*Apparence*) du script est organisé avec une infrastructure M.V.C. (*Models Views Controllers*):
 
-> /Iterface<br/>
+> /Interface<br/>
 > |--/Models<br/>
 > |--/Views<br/>
 > |--/Controllers<br/>
