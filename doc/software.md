@@ -3,8 +3,8 @@
 * **Sommaire:**
 
 > 1. Description du projet
->    * Objectifs du projets
->    * Languages et technologies utilisées
+>    * Objectifs du projet
+>    * Languages et technologies utilisés
 > 2. Structure du projet
 >    * Structure Frontend
 >    * Structure Backend
