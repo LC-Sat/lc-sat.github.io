@@ -3,8 +3,6 @@
 ## Sommaire:
 
 > 1. Description du projet
->    * Objectifs du projets
->    * Langages et technologies utilisés
 >    * Objectifs du projet
 >    * Langages et technologies utilisés
 > 2. Structure du projet
