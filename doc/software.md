@@ -64,7 +64,8 @@ En cours de réflexion et de rédaction.
 ### Ux design:
 
 Pour le Ux design (*User eXperience: conception de la fenêtre adaptée aux utilisateurs ciblés*), nous avons utilisé le logiciel *adobeXD*. L’objectif est d'intégrer un maximum de fonctions dans une même page sans pour autant surchargé et perdre l’utilisateur. Nous avons donc opter pour la structure suivante :
-![enter image description here](https://cdn.discordapp.com/attachments/777134083045326861/793121690115768340/unknown.png)Ici, les outils seront placés sur le bord de gauche de l'application et le rendu sera dans le grand espace libre.
+![enter image description here](https://cdn.discordapp.com/attachments/777134083045326861/793121690115768340/unknown.png)
+Ici, les outils seront placés sur le bord de gauche de l'application et le rendu sera dans le grand espace libre.
 
 ### Fonctionnement:
 
