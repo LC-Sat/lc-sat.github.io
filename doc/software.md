@@ -27,7 +27,7 @@ En bref, il s'agit ici de créer une application regroupant de multiples outils 
 
 ### Langages et technologies utilisées:
 
-Pour ce projet, nous avons décidé d'utiliser comme langage de programmation le langage **python**. En effet, ce langage présente beaucoup d'avantages pour notre projet. D'abord, les composants hardwares sont des composants de la gamme *Rasberry pi*, une technologie utilisant le langage python pour être programmée. De plus, python présente un large éventail de librairies. Il s'avère également que le langage python est le langage le plus utilisé dans le Big Data, Data Sciences et Intelligence Artificielle (*python est principalement utilisé dans l'analyse de données en masse*).
+Pour ce projet, nous avons décidé d'utiliser comme langage de programmation le langage **python**. En effet, ce langage présente beaucoup d'avantages pour notre projet. D'abord, les composants hardwares sont des composants de la gamme *Raspberry pi*, une technologie utilisant le langage python pour être programmée. De plus, python présente un large éventail de librairies. Il s'avère également que le langage python est le langage le plus utilisé dans le Big Data, Data Sciences et Intelligence Artificielle (*python est principalement utilisé dans l'analyse de données en masse*).
 Nous allons donc utiliser plusieurs librairies et technologies pour créer nos outils (*voir tableau*):
 
 ##### Librairies:
