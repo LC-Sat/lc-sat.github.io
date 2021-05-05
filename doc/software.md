@@ -10,17 +10,17 @@ Editeur utilisé: **Sublime Text**  . *Le  télécharger [ici](https://www.subli
 Logiciel pour les diagrammes: LucidChart. *Le télécharger [ici](https://www.lucidchart.com)*.
 
 Modules: 
-> os
-> tkinter
-> opencv (cv2)
-> numpy
-> matplotlib
-> json
-> pickle
-> folium
-> webbrowser
-> pyAesCrypt
-> shutil
+> os,
+> tkinter,
+> opencv (cv2),
+> numpy,
+> matplotlib,
+> json,
+> pickle,
+> folium,
+> webbrowser,
+> pyAesCrypt,
+> shutil,
 > zipfile
 
 ## Objectifs :
@@ -834,6 +834,8 @@ class Terrain_Map:
 Le module `opencv` est un module de traitement d'image. Il permet d'afficher une vidéo, de créer une vidéo et d'analyser une vidéo. La vidéo thermique est téléchargée en format brute. Voici le diagramme de création de la vidéo thermique:
 
 ![Diagramme de création de la vidéo thermique](https://media.discordapp.net/attachments/777134083045326861/839503042382790676/Creation_video_thermique.png?width=800&height=590)
+
+
 Voici le script utilisé pour traiter les vidéos:
 ```python
 class Video:
