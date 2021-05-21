@@ -1,6 +1,6 @@
-[Retour page principale](https://github.com/LC-Sat/lc-sat.github.io/blob/master/index.md)
-
 # LC-SAT : Application de traitement de données
+
+Retour à l'[acceuil](https://lc-sat.github.io/doc/index).
 
 Cette application est reliée directement à l'application embarquée dans la canette.
 Développeur application de bord: **Aristide URLI**. *[Github](https://github.com/aripot007)*
