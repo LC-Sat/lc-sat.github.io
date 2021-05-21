@@ -1,6 +1,22 @@
-﻿# Réseaux sociaux
-Pour le projet nous avons crée plusieurs réseaux sociaux: **Instagram:** pour poster des images (https://www.instagram.com/lc_sat/)
-**Twitter:** pour poster des message textuel (https://twitter.com/lc_sat)
-**YouTube:** pour des vidéos (https://www.youtube.com/channel/UCol3odMUuW2hn6GGNrv9VLA?view_as=subscriber)
-**Discord:** pour permettre à tout le monde de nous poser des questions sur le projet ou nous faire des propositions. (https://discord.gg/FHndV7aAyy)
-**GitHub:** pour décrire l’ensemble du projet et partager le code de l’application, le code embarqué dans la canette, le schéma électrique et tous les autres documents en rapport avec le projet. (https://github.com/LC-Sat/lc-sat.github.io/blob/master/doc/software.md)
+# Nos réseaux et nos sponsors
+
+Retour à l'[Acceuil](https://lc-sat.github.io/doc/index).
+
+## Nos réseaux:
+
+- [Instagram](https://www.instagram.com/lc_sat/)
+- [Twitter](https://twitter.com/lc_sat)
+- [Youtube](https://www.youtube.com/channel/UCol3odMUuW2hn6GGNrv9VLA?view_as=subscriber)
+- [Discord](https://discord.gg/FHndV7aAyy)
+- [Github](https://github.com/LC-Sat/)
+
+## Nos sponsors:
+
+- Lycée Carnot: 500€ de budget et accès aux salles de sciences de l'ingénieur.
+- Université de Bourgogne, en particulier à Mr. Matthieu Rossé pour son aide précieuse et ses conseils avisés: accès à du matériel de haute précision.
+- GJN Aerospace: conseils pour le développement du PCB et du parachute.
+- Aéro Modèles Club de la Côte d'or: largage de notre Cansat pendant la phase de test.
+
+
+---
+> Written with [StackEdit](https://stackedit.io/).
