@@ -6,4 +6,6 @@ Nous avons décidé d'utiliser le parachute comme le système de récupération 
 
 Les règles de competition nous imposent la vitesse de descente entre 5 et 12 m / s. Notre parachute est avec don diamètre de 37 cm projeté pour la vitesse de descente 8 m / s et masse de CanSat 340 g. On a effectué plusiers tests à l'aide de notre partenaire AMCCO et on a vérifié que la vitesse est dans les limites spécifiées. Il est fabriqué de ripstop ce qui un matériel avec faible poids et résistance élevée ce qui était bonne choix parce que pendant les tests le parachute a tombé dans les épines mais grace à son matériel ça n'a causé aucun dégradation.
 
+![](https://cdn.discordapp.com/attachments/845199430688833567/845212217641009182/unknown.png)
+
 Le parachute est fixé sur le CanSat grâce à des trous sur la canette, les fils du parachute passent dans les trous et sont attachés ensemble par les nœuds.
