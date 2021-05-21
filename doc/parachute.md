@@ -1,6 +1,6 @@
 ﻿# Parachute
 
-Retour à l'[acceuil](https://lc-sazt.github.io/doc/index)
+Retour à l'[acceuil](https://lc-sat.github.io/doc/index)
 
 Nous avons décidé d'utiliser le parachute comme le système de récupération parce que le système le plus simples et efiicace. En général il y a deux types des parachutes: des ailes de type parachute et des parachutes circulaires. Nous utilisons un parachute circulaire parce car son développement est plus facile. on inconvénient est l'impossibilité de le conduire en vol.
 
