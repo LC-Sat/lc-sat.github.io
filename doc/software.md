@@ -10,18 +10,18 @@ Editeur utilisé: **Sublime Text**  . *Le  télécharger [ici](https://www.subli
 Logiciel pour les diagrammes: LucidChart. *Le télécharger [ici](https://www.lucidchart.com)*.
 
 Modules: 
-> os,
-> tkinter,
-> opencv (cv2),
-> numpy,
-> matplotlib,
-> json,
-> pickle,
-> folium,
-> webbrowser,
-> pyAesCrypt,
-> shutil,
-> zipfile
+- os
+- tkinter
+- opencv (cv2)
+- numpy
+- matplotlib
+- json
+- pickle
+- folium
+- webbrowser
+- pyAesCrypt
+- shutil
+- zipfile
 
 ## Objectifs :
 
@@ -37,13 +37,12 @@ La réalisation de cette application s'est effectuée en plusieurs étapes:
 - D'abord, la définition du cahier des charges.
 
 Après de nombreuses réunions, pour définir le projet de la canette, nous avons lister les besoins. Puis, avec Aristide, nous nous sommes accorder sur les modules et les formats d'enregistrement des données. Voici un résumé des besoins et solutions techniques:
-|Besoin| Solution envisagée |
-|--|--|
-| Crypter et décrypter les données. | `pyAescrypt`, `pickle` |
-| Solution au stockage limitée. |`zipfile`, `shutil`|
-| Utilisation simple pour tout le monde.| `tkinter`|
-|Traitement des données.|`numpy`, `opencv`, `folium`, `webbrowser`, `matplotlib`|
-|Application paramétrable.|`json`|
+
+- Crypter et décrypter les données: `pyAescrypt`, `pickle`.
+- Stockage limité: `zipfile`, `shutil`.
+- Interface: `tkinter`.
+- Traitement des données: `numpy`, `opencv`, `folium`, `webbrowser`, `matplotlib`.
+- Application paramétrable: `json`.
 
 - Ensuite, vient la phase de design:
 
