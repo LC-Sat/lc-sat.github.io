@@ -6,6 +6,7 @@
 - [Hardware](https://lc-sat.github.io/doc/hardware)
 - [Réseaux et sponsors](https://lc-sat.github.io/doc/reseaux)
 - [Software](https://lc-sat.github.io/doc/software)
+- [Buzzer](https://lc-sat.github.io/doc/buzzer)
 
 ## En savoir plus sur notre équipe:
 
