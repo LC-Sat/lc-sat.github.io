@@ -12,12 +12,15 @@ Pour la modélisation 3D nous avons utilisé le logiciel Autodesk Fusion 360. No
 ## Les composants:
 
 Pour l'ordinateur de bord nous avons utilisé un Raspberry Pi Zero W qui est petit et simple d'utilisation.
+
+
 ![](https://cdn.discordapp.com/attachments/845199430688833567/845209708570476544/unknown.png)
 
+
 Pour les capteurs nous avons utilisé :
-	- Caméra Pi NoIR v2
-	- Caméra thermique Grove 101020557
-	- Module BMP280 PIM411
-	- Module GPS PA1010D ADA4415
-	- Module accéléromètre 3 axes MMA8452Q
-	- Module HTS221 ADA4535
+- Caméra Pi NoIR v2
+- Caméra thermique Grove 101020557
+- Module BMP280 PIM411
+- Module GPS PA1010D ADA4415
+- Module accéléromètre 3 axes MMA8452Q
+- Module HTS221 ADA4535
