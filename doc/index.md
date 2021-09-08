@@ -1,5 +1,10 @@
 ﻿# Cansat 2021: projet équipe Lc sat
 
+## New links !
+
+Our new website is available [here](https://lc-sat.tk)!
+You can access the web application demo [here](https://app.lc-sat.tk)!
+
 ## Liens vers les différents secteurs du projet:
 
 - [Parachute](https://lc-sat.github.io/doc/parachute)
